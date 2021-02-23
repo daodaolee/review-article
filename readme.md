@@ -12,9 +12,9 @@
 [重学JavaScript【作用域、执行上下问和垃圾回收】](https://github.com/daodaolee/study-note/issues/2)
 
 [重学JavaScript【Date介绍和用法】](https://github.com/daodaolee/study-note/issues/8)
-\
+
 [重学JavaScript【Global和Math】](https://github.com/daodaolee/study-note/issues/9)
-\
+
 [重学JavaScript【Array数组】](https://github.com/daodaolee/study-note/issues/7)
 
 [重学JavaScript【Map和Set】](https://github.com/daodaolee/study-note/issues/11)
