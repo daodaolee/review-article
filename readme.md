@@ -34,3 +34,5 @@ Vue2系列主要参照黄奕大佬的视频和笔记，复习Vue2的内部实现
 
 [Vue实例挂载的实现](https://github.com/daodaolee/study-note/issues/12)
 
+[Vue的 render 函数](https://github.com/daodaolee/study-note/issues/13)
+
