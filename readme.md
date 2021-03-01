@@ -28,7 +28,7 @@
 
 ## Vue2源码系列
 
-Vue2系列主要参照黄奕大佬的视频和笔记，复习Vue2的内部实现和原理。
+Vue2系列主要参照黄轶大佬的视频和笔记，复习Vue2的内部实现和原理。
 
 ### 数据驱动
 
@@ -41,4 +41,8 @@ Vue2系列主要参照黄奕大佬的视频和笔记，复习Vue2的内部实现
 [createElement 函数做了什么？](https://github.com/daodaolee/study-note/issues/14)
 
 [update转化为真实DOM](https://github.com/daodaolee/study-note/issues/15)
+
+### 组件化
+
+[createComponent 创建组件](https://github.com/daodaolee/review-article/issues/16)
 
