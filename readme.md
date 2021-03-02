@@ -42,6 +42,10 @@ Vue2系列主要参照黄轶大佬的视频和笔记，复习Vue2的内部实现
 
 [update转化为真实DOM](https://github.com/daodaolee/study-note/issues/15)
 
+整一张图概括下以上文章：
+
+
+
 ### 组件化
 
 [createComponent 创建组件](https://github.com/daodaolee/review-article/issues/16)
