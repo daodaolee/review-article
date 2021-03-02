@@ -42,7 +42,9 @@ Vue2系列主要参照黄轶大佬的视频和笔记，复习Vue2的内部实现
 
 [update转化为真实DOM](https://github.com/daodaolee/study-note/issues/15)
 
-整一张图概括下以上文章：
+整一张图概括下以上文章（图片较大，有6M左右）：
+
+![](https://raw.githubusercontent.com/daodaolee/review-article/main/Vue%E5%88%9D%E5%A7%8B%E5%8C%96%E5%92%8C%E6%B8%B2%E6%9F%93.png)
 
 
 
