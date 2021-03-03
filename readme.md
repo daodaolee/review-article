@@ -52,3 +52,7 @@ Vue2系列主要参照黄轶大佬的视频和笔记，复习Vue2的内部实现
 
 [createComponent 创建组件](https://github.com/daodaolee/review-article/issues/16)
 
+[Vue的patch](https://github.com/daodaolee/review-article/issues/17)
+
+![](https://raw.githubusercontent.com/daodaolee/review-article/main/Vue创建组件和patch过程.png)
+
