@@ -54,5 +54,7 @@ Vue2系列主要参照黄轶大佬的视频和笔记，复习Vue2的内部实现
 
 [Vue的patch](https://github.com/daodaolee/review-article/issues/17)
 
+整一张图概括创建组件和patch过程，在上张图的基础上增加（图片较大，有11M左右）：
+
 ![](https://raw.githubusercontent.com/daodaolee/review-article/main/Vue创建组件和patch过程.png)
 
