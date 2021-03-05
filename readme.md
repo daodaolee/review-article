@@ -56,6 +56,8 @@ Vue2系列主要参照黄轶大佬的视频和笔记，复习Vue2的内部实现
 
 [Vue的合并配置过程](https://github.com/daodaolee/review-article/issues/18)
 
+[Vue的生命周期](https://github.com/daodaolee/review-article/issues/19)
+
 如果patch不好消化，可以看下图：
 
 ![](https://raw.githubusercontent.com/daodaolee/review-article/main/patch过程.png)
