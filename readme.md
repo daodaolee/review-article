@@ -58,6 +58,8 @@ Vue2系列主要参照黄轶大佬的视频和笔记，复习Vue2的内部实现
 
 [Vue的生命周期](https://github.com/daodaolee/review-article/issues/19)
 
+[组件注册原理分析](https://github.com/daodaolee/review-article/issues/20)
+
 如果patch不好消化，可以看下图：
 
 ![](https://raw.githubusercontent.com/daodaolee/review-article/main/patch过程.png)
