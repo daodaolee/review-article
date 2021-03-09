@@ -62,7 +62,7 @@ Vue2系列主要参照黄轶大佬的视频和笔记，复习Vue2的内部实现
 
 ![](https://raw.githubusercontent.com/daodaolee/review-article/main/patch过程.png)
 
-还有一张图概括了patch过程(Vue创建组件和patch过程.png)，在数据驱动的基础上增加的，由于图片较大，请自行下载预览~：
+还有一张图概括了patch过程(Vue创建组件和patch过程.png)，在数据驱动的基础上增加的，由于图片较大，请自行下载预览~
 
 ### 深入响应式原理
 
