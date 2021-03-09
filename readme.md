@@ -42,9 +42,7 @@ Vue2系列主要参照黄轶大佬的视频和笔记，复习Vue2的内部实现
 
 [update转化为真实DOM](https://github.com/daodaolee/study-note/issues/15)
 
-放一张图概括下以上文章（图片较大，有6M左右）：
-
-![](https://raw.githubusercontent.com/daodaolee/review-article/main/Vue%E5%88%9D%E5%A7%8B%E5%8C%96%E5%92%8C%E6%B8%B2%E6%9F%93.png)
+仓库有一张图概括了以上文章(Vue初始化和渲染.png)，由于图片较大，影响页面加载了，所以有需要请自行下载。
 
 
 
@@ -60,11 +58,13 @@ Vue2系列主要参照黄轶大佬的视频和笔记，复习Vue2的内部实现
 
 [组件注册原理分析](https://github.com/daodaolee/review-article/issues/20)
 
-如果patch不好消化，可以看下图：
+如果patch不好消化，可以看下图(也可自取：patch过程.png)：
 
 ![](https://raw.githubusercontent.com/daodaolee/review-article/main/patch过程.png)
 
-再放一张图概括创建组件和patch过程，在数据驱动的基础上增加（图片较大，有11M左右）：
+还有一张图概括了patch过程(Vue创建组件和patch过程.png)，在数据驱动的基础上增加的，由于图片较大，请自行下载预览~：
 
-![](https://raw.githubusercontent.com/daodaolee/review-article/main/Vue创建组件和patch过程.png)
+### 深入响应式原理
+
+[响应式对象](https://github.com/daodaolee/review-article/issues/22)
 
