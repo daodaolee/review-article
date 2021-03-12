@@ -68,3 +68,5 @@ Vue2系列主要参照黄轶大佬的视频和笔记，复习Vue2的内部实现
 
 [响应式对象](https://github.com/daodaolee/review-article/issues/22)
 
+[getter_依赖收集](https://github.com/daodaolee/review-article/issues/23)
+
