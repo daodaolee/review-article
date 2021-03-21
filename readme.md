@@ -72,5 +72,7 @@ Vue2系列主要参照黄轶大佬的视频和笔记，复习Vue2的内部实现
 
 [setter_派发更新](https://github.com/daodaolee/review-article/issues/24)
 
-[nextTick原理](https://github.com/daodaolee/review-article/issues/25)
+[nextTick原理分析](https://github.com/daodaolee/review-article/issues/25)
+
+[Vue.set 原理分析](https://github.com/daodaolee/review-article/issues/26)
 
