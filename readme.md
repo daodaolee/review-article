@@ -76,3 +76,5 @@ Vue2系列主要参照黄轶大佬的视频和笔记，复习Vue2的内部实现
 
 [Vue.set 原理分析](https://github.com/daodaolee/review-article/issues/26)
 
+[计算属性和监听属性](https://github.com/daodaolee/review-article/issues/27)
+
