@@ -25,6 +25,8 @@
 
 [重学JavaScript【函数的进阶】](https://github.com/daodaolee/study-note/issues/5)
 
+[基于猫狗大战奥特曼，再手写一次apply、call和bind](https://github.com/daodaolee/review-article/issues/30)
+
 
 ## Vue2源码系列
 
